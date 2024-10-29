@@ -1,0 +1,11 @@
+Algorithm
+arima
+sarima
+profit
+exponention smoothing
+
+Dataset
+wheather forcasting
+
+Techniques
+Time Sreach Analysis
